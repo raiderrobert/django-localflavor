@@ -1,3 +1,4 @@
+# Human Readable County Name, State Abbreviation, INCITS Code
 US_COUNTIES = (
     ('Autauga County', 'AL', '01001',),
     ('Baldwin County', 'AL', '01003',),
