@@ -1,3 +1,10 @@
+"""
+A mapping of counties, boroughs, municipalities, parishes, and other census area
+to their states. INCITS code is included for more accurate mapping as needed.
+This exists in this standalone file so that it's only imported into memory
+when explicitly needed.
+"""
+
 # Human Readable County Name, State Abbreviation, INCITS Code
 US_COUNTIES = (
     ('Autauga County', 'AL', '01001',),
